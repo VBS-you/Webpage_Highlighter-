@@ -1,82 +1,96 @@
 
-
-/////////////////////////parameter////////////////////////////////////////////////////////////
-{
-    var rightgreen = "#7FFFAA", gray = "#C0C0C0", brown = "#F4A460", pink = "#FFC0CB";
-    var orange = "#FFA500", skyblue = "#87CEEB", lightgray = "#DCDCDC"; 
-    var purplegray = "#E6E6FA",	lightorange="#FFDEAD"
-    var lightgreen = "#98FB98"; azure = "#F0FFFF"; lightcyan = "#E1FFFF";tomatored="#FF6347"
-
-    var rules = [
-        { word: "考察", level: 19 }, //orange
-        { word: "考查", level: 14 },  //azure
-        //level:12    },  //gray
-
-        //    {        word:"与",        level:12    },  //lightgray
-        //    {        word:"于",        level:10    },  //skyblue 
-        // { word: "既", level: 13 },  //lightgreen 略微有点亮
-        // { word: "即", level: 10 },  //skyblue 有点亮
-        { word: "既", level: 11 },  //purplegray
-        { word: "即", level: 15 },  //lightcyan
-        { word: "权利", level: 11 },  //purplegray
-        { word: "权力", level: 15 },  //lightcyan  可 
-        //   {        word:"检查",        level:13    },  //lightgreen
-        //   {        word:"检察",        level:10    },  //skyblue
-
-        { word: "完法", level: 27 }, //tomatored
-        { word: "自已", level: 27 },
-        { word: "检查机关", level: 27 },
-
-        { word: "-", level: 18 }, //pink
-        { word: "—", level: 18 }, //pink
-
-        { word: "入", level: 11 },  //purplegray
-        { word: "那", level: 11 },  //purplegray
-
-
-
-        { word: "正确", level: 16 }, //rightgreen
-        { word: "错误", level: 19 }, //lightorange
-
-
-    ]
-
-    var color_selection = []
-    color_selection[11] = purplegray; color_selection[12] = lightgray;
-    color_selection[13] = lightgreen; color_selection[16] = rightgreen;
-    color_selection[27] = tomatored; color_selection[17] = brown;
-    color_selection[21] = orange;color_selection[19] = lightorange;
-    color_selection[18] = pink; color_selection[10] = skyblue;
-    color_selection[14] = azure;color_selection[15] = lightcyan;
-
-}
-
-////////////////////////////////////////////////////////////////////////////////////
 var occurrence = 0
-
-
-
+var target
 
 
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
    
-        target_painting()
-        console.log(occurrence)
-    
+        // target_painting()
+        // console.log(occurrence)
+        //alert("ahead of rolling ")
+
+        rolling()
+
+        addlistener()
+
+
 });
+
+
+
+
+
+function rolling() {
+    setTimeout(() => {
+
+        target = document.querySelector("#tikuImgshow > div.right-part.common-style > div")
+        if (target != null) {
+            htmltext = target.innerHTML
+
+            if (htmltext.indexOf("background") >= 0 ) {
+                removeHighlights(target)  // node type  target
+            } else {
+                target.innerHTML = painting(htmltext)
+            }
+
+            
+        }
+        console.log(occurrence)
+
+     minesweeping()
+
+    }, 600);
+}
 
 /////////////////////////////////////////////////////////////////////////////////////
 
-function target_painting() {
 
-    var target = document.querySelector("#tikuImgshow > div.right-part.common-style > div")
+function addlistener() {
 
-    if (target != null) {
-        htmltext = target.innerHTML
-        target.innerHTML = painting(htmltext)
-    }
+
 
 }
+
+
+
+
+
+
+function minesweeping() {
+    
+    
+        var answerdiv=document.querySelector("#tikuImgshow > div.left-part.common-style > div.question-cont.answer-cont")
+
+        if (answerdiv==null) {
+            reveal_answer_btn=document.querySelector("#tikuImgshow > div.left-part.common-style > h5 > div.mini-btn")
+            if (reveal_answer_btn!=null) {
+                reveal_answer_btn.click()
+            }             
+        }
+
+        setTimeout(() => {
+            answerdiv=document.querySelector("#tikuImgshow > div.left-part.common-style > div.question-cont.answer-cont")
+            if (answerdiv!=null) {
+                target = document.querySelector("#tikuImgshow > div.right-part.common-style > div")
+                targettext=target.innerText
+                answertext=answerdiv.innerText
+
+                if(targettext!=null && answertext!=null ){
+                    if(answertext==targettext){alert("!!!小心地雷！！！")} 
+                }
+               
+            }      
+       }, 800);
+
+
+         //mining   #mind of landmine
+
+}
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+//function target_painting() {}
 
 
 
@@ -136,9 +150,8 @@ function background_coloring(text, pos, word_length, level) {
 }
 
 
+function removeHighlights(node) {
 
+    location.reload();
 
-
-
-
-
+}

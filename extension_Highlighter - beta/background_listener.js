@@ -11,7 +11,7 @@ chrome.browserAction.onClicked.addListener(
         },
         function(tabs) {
             if ("undefined" != typeof tabs[0].id && tabs[0].id) {
-
+               
                 chrome.tabs.sendMessage(tabs[0].id, {
                     "action":"painting"
 
