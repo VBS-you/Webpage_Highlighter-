@@ -3,7 +3,7 @@
 	"name": "Automatic  Highlighter",
 	"short_name": "Highlighter",
 	"description": "Automatically highlights given keywords in given rules. Credit to wrzlbrmft ",
-	"version": "0.3.6",
+	"version": "0.3.7",
 	"icons": {
 		"16": "icons/icon16.png",
 		"24": "icons/icon24.png",

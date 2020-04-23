@@ -33,7 +33,7 @@
         { word: "己经", level: 57 },
         { word: "检查机关", level: 57 },
         
-        { word: "领导入", level: 57 },// 绝对错误
+        { word: "领导入", level: 57 },// 绝对错误  雷
         { word: "矛厝", level: 57 },//
         { word: "蚂蚊", level: 57 },
         { word: "良妍", level: 57 },
@@ -41,6 +41,12 @@
         { word: "轻犯", level: 57 },
         { word: "部们", level: 57 },//   绝对错误
         { word: "开关之年", level: 57 },//tomatored
+        // { word: "决第", level: 57 },
+        // { word: "轻犯", level: 57 },
+        // { word: "部们", level: 57 },//   绝对错误 雷
+        // { word: "决第", level: 57 },
+        // { word: "轻犯", level: 57 },
+        // { word: "部们", level: 57 },
         // { word: "决第", level: 57 },
         // { word: "轻犯", level: 57 },
         // { word: "部们", level: 57 },
@@ -65,8 +71,7 @@
         { word: "没有得到犯罪程度", level: 48 },
         { word: "対", level: 48 },
         { word: "而案闻", level: 48 },
-        // { word: "当家做主", level: 48 },     //没有得到犯罪程度
-        // { word: "是是", level: 48 },
+        { word: "音惠", level: 48 },   //普惠
         // { word: "当家做主", level: 48 },
         // { word: "是是", level: 48 },
         // { word: "当家做主", level: 48 },   
@@ -127,13 +132,16 @@
         { word: "考查", level: 13 },  // Ivory;
 
         { word: "全是", level: 21 },  //Lavender 
+        { word: "选择者", level: 21 },   
+        // { word: "全是", level: 21 },  //Lavender 
+        // { word: "全是", level: 21 },  
+        // { word: "全是", level: 21 },  //Lavender  淡暗灰色 一丝丝蓝
+        // { word: "全是", level: 21 },  
+        // { word: "全是", level: 21 },         
+        // { word: "全是", level: 21 },  //Lavender 
+        // { word: "全是", level: 21 },  
+        // { word: "全是", level: 21 },   
 
-
-
-        // { word: "躲过", level: 12 },
-        // { word: "躲过", level: 12 },
-        // { word: "躲过", level: 12 },
-        // { word: "躲过", level: 12 },
 
         //    {        word:"与",        level:12    },  //lightgray
         //    {        word:"于",        level:10    },  //skyblue 
