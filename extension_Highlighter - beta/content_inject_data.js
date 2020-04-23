@@ -6,7 +6,7 @@
     const orange = "#FFA500", skyblue = "#87CEEB", lightgray = "#DCDCDC"; 
     const purplegray = "#E6E6FA",	lightorange="#FFDEAD", Lime="#00FF00";//亮绿色
     const lightgreen = "#98FB98", azure = "#F0FFFF", Aqua = "#D4F2E7";//淡水绿色
-    const lightcyan = "#E1FFFF", tomatored="#FF6347", Ivory="#FFFFF0";
+    const lightcyan = "#E1FFFF", tomatored="#FF6347", Ivory="#FFFFD0";
     const GreenYellow="#ADFF2F", Khaki="#F0E68C";//卡其色
     const Lavender="#E6E6FA" , MistyRose="#FFE4E1";// 薰衣草淡紫 //薄雾玫瑰 MistyRose淡粉红
 
@@ -53,23 +53,78 @@
         { word: "是是", level: 48 },
         { word: "当家做主", level: 48 },
         { word: "属于属于", level: 48 }, //pink 相对错误
-        // { word: "给于", level: 48 },
+        { word: "概据", level: 48 },
+        { word: "只是点", level: 48 },
+        { word: "邓小乎", level: 48 },
+        { word: "刑法处罚", level: 48 }, //pink 相对错误
+        { word: "审关", level: 48 },
+        { word: "依完", level: 48 },
+        { word: "此次时间", level: 48 }, //pink 相对错误
+        { word: "坚这", level: 48 },
+        { word: "民族政治", level: 48 },       
+        { word: "没有得到犯罪程度", level: 48 },
+        { word: "対", level: 48 },
+        { word: "而案闻", level: 48 },
+        // { word: "当家做主", level: 48 },     //没有得到犯罪程度
         // { word: "是是", level: 48 },
         // { word: "当家做主", level: 48 },
-        // { word: "属于属于", level: 48 }, //pink 相对错误
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },   
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },//pink 相对错误
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },     
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },           
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },   
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },//pink 相对错误
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },     
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },    
+
+
 
 
         { word: "尊重考核", level: 27 }, //27] = brown; 可
         { word: "放放", level: 27 }, 
         { word: "参于", level: 27 }, // 可能错误
+        { word: "守践", level: 27 }, 
+        { word: "上开性", level: 27 }, 
+        { word: "集合自身", level: 27 }, 
+        { word: "面相", level: 27 }, 
+        { word: "本体", level: 27 }, 
+        { word: "老奶奶", level: 27 }, 
+        { word: "实施民主", level: 27 }, 
+        { word: "民主关系", level: 27 }, 
+        { word: "报本", level: 27 }, 
+        { word: "看郭某鹏待", level: 27 }, 
         // { word: "放放", level: 27 }, 
+        // { word: "放放", level: 27 }, //27] = brown
+        // { word: "放放", level: 27 }, 
+        // { word: "放放", level: 27 }, 
+        // { word: "放放", level: 27 }, 
+        // { word: "放放", level: 27 }, 
+        // { word: "放放", level: 27 }, 
+        // { word: "放放", level: 27 }, 
+        // { word: "放放", level: 27 }, 
+        // { word: "放放", level: 27 }, 
+        // { word: "放放", level: 27 }, //27] = brown
         // { word: "放放", level: 27 }, 
         // { word: "放放", level: 27 }, 
         // { word: "放放", level: 27 }, 
         // { word: "放放", level: 27 }, 
 
         { word: "考察", level: 27 }, // brown;
-        { word: "考查", level: 21 },  //Lavender 
+        { word: "考查", level: 13 },  // Ivory;
 
         { word: "全是", level: 21 },  //Lavender 
 
