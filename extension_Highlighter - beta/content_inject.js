@@ -9,7 +9,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
         // console.log(occurrence)
         //alert("ahead of rolling ")
 
-        rolling(800)
+        rolling(400)
 
         addlistener()
 
@@ -69,12 +69,16 @@ function addlistener() {
 
 
 
-function rolling(delay=1800) {
+function rolling(delay=1700) {
 
  
  
 
     setTimeout(() => {
+
+
+        minesweeping()
+
 
         target = document.querySelector("#tikuImgshow > div.right-part.common-style > div")
         if (target != null) {
@@ -86,7 +90,7 @@ function rolling(delay=1800) {
         }
         console.log(occurrence)
 
-     minesweeping()
+     
 
     }, delay);
 }
