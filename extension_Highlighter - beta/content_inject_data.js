@@ -72,13 +72,13 @@
         { word: "対", level: 48 },
         { word: "而案闻", level: 48 },
         { word: "音惠", level: 48 },   //普惠
-        // { word: "当家做主", level: 48 },
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },   
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },//pink 相对错误
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },     
+        { word: "赋子", level: 48 },  //赋予
+        { word: "营改增", level: 48 },   //  增值税 雷   具体不明 据说未跳弹框
+        { word: "作用作用", level: 48 },   
+        { word: "区城", level: 48 },
+        { word: "杜会", level: 48 },//pink 相对错误
+        { word: "位与", level: 48 },
+        { word: "抚乱", level: 48 },     
         // { word: "是是", level: 48 },
         // { word: "当家做主", level: 48 },
         // { word: "是是", level: 48 },
@@ -112,8 +112,8 @@
         { word: "民主关系", level: 27 }, 
         { word: "报本", level: 27 }, 
         { word: "看郭某鹏待", level: 27 }, 
-        // { word: "放放", level: 27 }, 
-        // { word: "放放", level: 27 }, //27] = brown
+        { word: "克已奉公", level: 27 }, 
+        { word: "于什么", level: 27 }, //27] = brown
         // { word: "放放", level: 27 }, 
         // { word: "放放", level: 27 }, 
         // { word: "放放", level: 27 }, 
@@ -133,8 +133,8 @@
 
         { word: "全是", level: 21 },  //Lavender 
         { word: "选择者", level: 21 },   
-        // { word: "全是", level: 21 },  //Lavender 
-        // { word: "全是", level: 21 },  
+        { word: "的解，", level: 21 },  //Lavender 
+        { word: "政机", level: 21 },  
         // { word: "全是", level: 21 },  //Lavender  淡暗灰色 一丝丝蓝
         // { word: "全是", level: 21 },  
         // { word: "全是", level: 21 },         
@@ -149,7 +149,7 @@
         // { word: "即", level: 10 },  //skyblue 有点亮
         { word: "既", level: 17 },  //purplegray
         { word: "即", level: 15 },  //lightcyan
-        // { word: "已", level: 17 },  //purplegray
+        { word: "已", level: 17 },  //purplegray
         // { word: "己", level: 15 },  //lightcyan
         { word: "权利", level: 13 },  // Ivory;
         { word: "权力", level: 16 },  //Aqua
