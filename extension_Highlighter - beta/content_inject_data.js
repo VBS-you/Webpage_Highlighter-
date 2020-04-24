@@ -88,13 +88,12 @@
         { word: "权力关", level: 48 },
         { word: "建没", level: 48 },   
         { word: "我各民族", level: 48 },//pink 相对错误
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },     
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },    
-        // { word: "当家做主", level: 48 },           
+        { word: "奥论", level: 48 },
+        { word: "收人", level: 48 },     
+        { word: "产主", level: 48 },
+        { word: "进发", level: 48 },
+        { word: "并发", level: 48 },  
+        { word: "写扬", level: 48 },           
         // { word: "是是", level: 48 },
         // { word: "当家做主", level: 48 },
         // { word: "是是", level: 48 },
@@ -179,6 +178,22 @@
         { word: "躲过", level: 18 },
         { word: "简介参", level: 18 },
         { word: "由", level: 18 },
+        { word: "统帅", level: 18 }, 
+        // { word: "躲过", level: 18 },//MistyRose 浅浅红
+        // { word: "简介参", level: 18 },
+        // { word // { word: "躲过", level: 18 },//MistyRose 浅浅红
+        // { word: "简介参", level: 18 },
+        // { word: "由", level: 18 },
+        // { word: "统帅", level: 18 }, 
+        // { word: "躲过", level: 18 },//MistyRose 浅浅红
+        // { word: "简介参", level: 18 },
+        // { word: "由", level: 18 },
+        // { word: "统帅", level: 18 }, 
+         // { word: "躲过", level: 18 },//MistyRose 浅浅红
+        // { word: "简介参", level: 18 },
+        // { word: "由", level: 18 },
+        // { word: "统帅", level: 18 }, 
+
 
 
         
