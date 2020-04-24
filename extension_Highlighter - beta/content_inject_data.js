@@ -79,9 +79,21 @@
         { word: "杜会", level: 48 },//pink 相对错误
         { word: "位与", level: 48 },
         { word: "抚乱", level: 48 },     
+        { word: "为人民为实事", level: 48 },
+        { word: "的的", level: 48 },
+        { word: "静中游动", level: 48 },
+        { word: "具体智慧的结晶", level: 48 },           
+        { word: "于切", level: 48 },
+        { word: "带口罩", level: 48 },
+        { word: "权力关", level: 48 },
+        { word: "建没", level: 48 },   
+        { word: "我各民族", level: 48 },//pink 相对错误
+        // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },     
         // { word: "是是", level: 48 },
         // { word: "当家做主", level: 48 },
         // { word: "是是", level: 48 },
+        // { word: "当家做主", level: 48 },    
         // { word: "当家做主", level: 48 },           
         // { word: "是是", level: 48 },
         // { word: "当家做主", level: 48 },
@@ -94,7 +106,7 @@
         // { word: "是是", level: 48 },
         // { word: "当家做主", level: 48 },
         // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },    
+        // { word: "当家做主", level: 48 },  
 
 
 
@@ -135,12 +147,20 @@
         { word: "选择者", level: 21 },   
         { word: "的解，", level: 21 },  //Lavender 
         { word: "政机", level: 21 },  
-        // { word: "全是", level: 21 },  //Lavender  淡暗灰色 一丝丝蓝
+        { word: "下工夫", level: 21 },  //Lavender  淡暗灰色 一丝丝蓝
+        { word: "要强", level: 21 },  
+        { word: "现代建设", level: 21 },         
+        // { word: "全是", level: 21 },  //Lavender 
         // { word: "全是", level: 21 },  
+        // { word: "全是", level: 21 },   
         // { word: "全是", level: 21 },         
         // { word: "全是", level: 21 },  //Lavender 
         // { word: "全是", level: 21 },  
         // { word: "全是", level: 21 },   
+
+
+
+
 
 
         //    {        word:"与",        level:12    },  //lightgray
@@ -158,7 +178,10 @@
         { word: "这样做法", level: 18 },  //MistyRose
         { word: "躲过", level: 18 },
         { word: "简介参", level: 18 },
+        { word: "由", level: 18 },
 
+
+        
 
         { word: "入",level: 19 },  //Khaki
         { word: "人", level: 14 },  //azure
