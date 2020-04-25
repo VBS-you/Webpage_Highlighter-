@@ -97,27 +97,75 @@
         { word: "需本", level: 48 },  //需要
         { word: "考直", level: 48 }, //考查
         { word: "了动权", level: 48 },//0.2 雷
-        // { word: "当家做主", level: 48 },   
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },//pink 相对错误
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },    // 
-        // { word: "是是", level: 48 },
+        { word: "勒劳", level: 48 },   // 勤劳
+        { word: "映像", level: 48 }, // 映像 改为 映象
+        { word: "准人", level: 48 },//pink 相对错误
+        { word: "竟争", level: 48 },
+        { word: "材科", level: 48 },    //  材料
+        { word: "住情深", level: 48 },     // 一往情深pink 粉红 
         // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },  //pink 粉红
-        // { word: "是是", level: 48 },
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
         // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },   //
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },//pink 相对错误
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },  //   
-        // { word: "是是", level: 48 },
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //pink 粉红 
         // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },
-        // { word: "当家做主", level: 48 },  //pink 粉红  
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //pink 粉红 
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //pink 粉红 
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //pink 粉红 
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+
+
+        { word: "解答是", level: 18 },//  解答时   MistyRose 浅浅红
+        { word: "创断", level: 18 },//  创新
+        { word: "法律效率", level: 18 },// 效力
+        { word: "对对", level: 18 },// 
+        { word: "表明表明", level: 18 },// 
+        { word: "专专", level: 18 },// 
+        { word: "纪纪", level: 18 },//  世纪  MistyRose 浅浅红
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// MistyRose 浅浅红
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
 
 
 
@@ -157,7 +205,7 @@
         { word: "全是", level: 21 },  //Lavender  
         { word: "选择者", level: 21 },   
         { word: "的解，", level: 21 },  //Lavender 
-        { word: "政机", level: 21 },  
+        // { word: "政机", level: 21 },  //    ？？
         { word: "下工夫", level: 21 },  //Lavender  淡暗灰色 一丝丝蓝
         // { word: "要强", level: 21 },  //  ？？
         { word: "现代建设", level: 21 },   //现代化      
@@ -207,7 +255,7 @@
         { word: "此时中", level: 18 }, // 从此时中
         { word: "个人安慰", level: 18 }, //安危
         { word: "一撮而就", level: 18 }, // 一蹴而就
-         { word: "大才会好", level: 18 }, 
+        { word: "大才会好", level: 18 }, 
         { word: "关系和爱护", level: 18 },//关心和爱护 浅浅红
         { word: "中国民族", level: 18 },
         { word: "以宪治", level: 18 },// 依宪治国
@@ -215,9 +263,9 @@
         { word: "用用", level: 18 },//  做事总用用不完的劲  MistyRose 浅浅红
         { word: "食物之间联系", level: 18 },// 事物
         { word: "素尚", level: 18 }, //  崇尚
-        // { word: "统帅", level: 18 },   //
-        // { word: "由", level: 18 },// 
-        // { word: "统帅", level: 18 }, 
+        { word: "程程", level: 18 },   // “程程度”改成“程度”
+        { word: "兴题", level: 18 },//  兴趣。
+        { word: "兴起", level: 18 }, 
         // { word: "躲过", level: 18 },//MistyRose 浅浅红
         // { word: "简介参", level: 18 },
         // { word: "由", level: 18 },// 

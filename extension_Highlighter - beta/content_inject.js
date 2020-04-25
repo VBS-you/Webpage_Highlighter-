@@ -54,7 +54,7 @@ function addlistener() {
                         if (confirmbtn!=null) {
                             confirmbtn.addEventListener("click",()=>{rolling()})
                         } 
-                    }, 600);
+                    }, 400);
                 } )
             }
         
@@ -69,7 +69,7 @@ function addlistener() {
 
 
 
-function rolling(delay=1700) {
+function rolling(delay=1400) {
 
  
  
@@ -107,27 +107,18 @@ function minesweeping() {
         var answerdiv=document.querySelector("#tikuImgshow > div.left-part.common-style > div.question-cont.answer-cont")
         var waittime 
             if (answerdiv==null) {
-                reveal_answer_btn=document.querySelector("#tikuImgshow > div.left-part.common-style > h5 > div.mini-btn")
-                if (reveal_answer_btn!=null) {
-                    reveal_answer_btn.click()
-
-                }  else{
-                   setTimeout(() => {
-                    reveal_answer_btn=document.querySelector("#tikuImgshow > div.left-part.common-style > h5 > div.mini-btn")
-
-                    if (reveal_answer_btn!=null) {
-                    reveal_answer_btn.click()
-                    } 
-
-                   }, 1800); 
-                }
+                reveal()
                           
+            }else{
+                if (answerdiv.innerText=="") {
+                    reveal()
+                }
             }
         
 
         comparing(waittime)
 
-
+            
        function comparing(waittime=700) {
         setTimeout(() => {
         answerdiv=document.querySelector("#tikuImgshow > div.left-part.common-style > div.question-cont.answer-cont")
@@ -148,6 +139,23 @@ function minesweeping() {
  
          //mining   #mind of landmine
 
+
+         function reveal() {
+            reveal_answer_btn=document.querySelector("#tikuImgshow > div.left-part.common-style > h5 > div.mini-btn")
+            if (reveal_answer_btn!=null) {
+                reveal_answer_btn.click()
+
+            }  else{
+               setTimeout(() => {
+                reveal_answer_btn=document.querySelector("#tikuImgshow > div.left-part.common-style > h5 > div.mini-btn")
+
+                if (reveal_answer_btn!=null) {
+                reveal_answer_btn.click()
+                } 
+
+               }, 1800); 
+            }
+         }
 }
 
 
