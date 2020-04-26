@@ -84,10 +84,9 @@ function rolling(delay=1400) {
         if (target != null) {
             htmltext = target.innerHTML
             target.innerHTML = painting(htmltext)
-
-
-            
+          
         }
+        
         console.log(occurrence)
 
      

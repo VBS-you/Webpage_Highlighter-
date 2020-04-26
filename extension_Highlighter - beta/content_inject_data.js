@@ -124,11 +124,34 @@
         { word: "|", level: 48 },     //
         { word: "有利与", level: 48 },//有利于
         { word: "专破", level: 48 },   //专政
+        { word: "辨证", level: 48 },     //辩证    粉红 
+        { word: "一切从实际出、", level: 48 },// 从坚持一切从实际出发 雷
+        { word: "形式严峻", level: 48 },   //形势严峻
+        { word: "贫人口", level: 48 },     //贫困
+        { word: "可能应做", level: 48 },//可能应做得不好而受到责备……应→因
+        { word: "万种创新", level: 48 },   //
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //pink 粉红 
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //
         // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //pink 粉红 
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
         // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //pink 粉红 
         // { word: "当家做主", level: 48 },//
@@ -154,6 +177,27 @@
         { word: "范性文化", level: 18 },// 行政规范性文件
         { word: "使如何", level: 18 },// 是
         { word: "说法中太", level: 18 },// 说法中太绝对
+        { word: "决绝", level: 18 },// 拒绝
+        { word: "分析分析", level: 18 },// 
+        { word: "坚持像群众", level: 18 },// 向
+        { word: "实现按劳", level: 18 },// 我国实现按劳分配为主体 实现改为实行
+        { word: "由国家制度", level: 18 },// 制定 MistyRose 浅浅红
+        { word: "终南山", level: 18 },     // 钟南山” 
+        { word: "社会社会", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// MistyRose 浅浅红
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
         // { word: "由", level: 18 },// 
         // { word: "由", level: 18 },// 
         // { word: "由", level: 18 },// 
@@ -240,7 +284,7 @@
         { word: "这样做法", level: 18 },  //MistyRose
         { word: "躲过", level: 18 },
         { word: "简介参", level: 18 },
-        { word: "由", level: 18 },
+        // { word: "由", level: 18 }, // 干扰
         { word: "统帅", level: 18 }, 
         { word: "改怎", level: 18 },//MistyRose 浅浅红
         { word: "这是这是", level: 18 },
