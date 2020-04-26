@@ -32,6 +32,7 @@
         { word: "自已", level: 57 },
         { word: "己经", level: 57 },
         { word: "检查机关", level: 57 },
+        { word: "检查院", level: 57 },
         
         { word: "领导入", level: 57 },// 绝对错误  雷
         { word: "矛厝", level: 57 },//
@@ -103,26 +104,26 @@
         { word: "竟争", level: 48 },
         { word: "材科", level: 48 },    //  材料
         { word: "住情深", level: 48 },     // 一往情深pink 粉红 
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //pink 粉红 
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //pink 粉红 
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
+        { word: "职贵", level: 48 },// 职责
+        { word: "止有", level: 48 },   // “行止有耻”
+        { word: "行已有耻", level: 48 },
+        { word: "违反犯罪", level: 48 },     //违法
+        { word: "依法法", level: 48 },//依法法治国
+        { word: "贵任", level: 48 },   // 责任
+        { word: "全年准确", level: 48 },     //全面 
+        { word: "的助人", level: 48 },// 情绪的 主人
+        { word: "竟技", level: 48 },   //竞技
+        { word: "人和方法", level: 48 },     //任何
+        { word: "机关机关", level: 48 },//
+        { word: "溢用", level: 48 },   //滥用
+        { word: "美异", level: 48 },     //差异
+        { word: "我国我国", level: 48 },//
+        { word: "贏", level: 48 },   //赢
+        { word: "冻内", level: 48 },//冻肉
+        { word: "强调强调", level: 48 },   //
+        { word: "|", level: 48 },     //
+        { word: "有利与", level: 48 },//有利于
+        { word: "专破", level: 48 },   //专政
         // { word: "是是", level: 48 },     //pink 粉红 
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
@@ -145,13 +146,14 @@
         { word: "表明表明", level: 18 },// 
         { word: "专专", level: 18 },// 
         { word: "纪纪", level: 18 },//  世纪  MistyRose 浅浅红
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
+        { word: "还还", level: 18 },//  还很
+        { word: "以靠", level: 18 },// 依靠
+        { word: "分析概况", level: 18 },// 概括
+        { word: "降低最低", level: 18 },// 降到
+        { word: "教有", level: 18 },     // 教育     
+        { word: "范性文化", level: 18 },// 行政规范性文件
+        { word: "使如何", level: 18 },// 是
+        { word: "说法中太", level: 18 },// 说法中太绝对
         // { word: "由", level: 18 },// 
         // { word: "由", level: 18 },// 
         // { word: "由", level: 18 },// 
@@ -233,7 +235,7 @@
         { word: "权利", level: 13 },  // Ivory;
         { word: "权力", level: 16 },  //Aqua
         {        word:"检查",     level: 19 },  //Khaki 可
-        {        word:"检察",     level: 18 },  //MistyRose
+        // {        word:"检察",     level: 18 },  //MistyRose
 
         { word: "这样做法", level: 18 },  //MistyRose
         { word: "躲过", level: 18 },
@@ -243,7 +245,7 @@
         { word: "改怎", level: 18 },//MistyRose 浅浅红
         { word: "这是这是", level: 18 },
         { word: "体现改革", level: 18 },
-        { word: "负责人", level: 18 },
+        { word: "负责入", level: 18 },
         { word: "经济话", level: 18 }, //经济活
         { word: "话经济", level: 18 },//MistyRose 浅浅红
         { word: "相应", level: 18 },  // 响应国家号召
@@ -259,6 +261,7 @@
         { word: "关系和爱护", level: 18 },//关心和爱护 浅浅红
         { word: "中国民族", level: 18 },
         { word: "以宪治", level: 18 },// 依宪治国
+        { word: "完治", level: 18 },// 依宪治国
         { word: "取情", level: 18 }, //才能夺取疫情防控
         { word: "用用", level: 18 },//  做事总用用不完的劲  MistyRose 浅浅红
         { word: "食物之间联系", level: 18 },// 事物
@@ -266,7 +269,7 @@
         { word: "程程", level: 18 },   // “程程度”改成“程度”
         { word: "兴题", level: 18 },//  兴趣。
         { word: "兴起", level: 18 }, 
-        // { word: "躲过", level: 18 },//MistyRose 浅浅红
+        { word: "分主要", level: 18 },//主要分     
         // { word: "简介参", level: 18 },
         // { word: "由", level: 18 },// 
         // { word: "统帅", level: 18 }, 
