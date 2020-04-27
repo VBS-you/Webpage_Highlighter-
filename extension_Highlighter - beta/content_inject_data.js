@@ -93,7 +93,7 @@
         { word: "收人", level: 48 },     
         { word: "产主", level: 48 },
         { word: "进发", level: 48 },
-        { word: "并发", level: 48 },  
+        // { word: "并发", level: 48 },  
         { word: "写扬", level: 48 },           
         { word: "需本", level: 48 },  //需要
         { word: "考直", level: 48 }, //考查
@@ -164,18 +164,34 @@
         { word: "全民依法治国", level: 48 },   //全面
         { word: "數衍", level: 48 },   //數衍塞责
         { word: "遵法守法", level: 48 },   //
-        { word: "国家社会", level: 48 },     //pink 粉红 
-        { word: "习近平新时期中国特色", level: 48 },// 新时代
-        { word: "，始害无穷。", level: 48 },   //123
+        { word: "习近平新时期", level: 48 },// 新时代
+        { word: "始害无穷", level: 48 },   //123
         { word: "教育教育", level: 48 },     //
         { word: "多个和国家", level: 48 },//
         { word: "坚持切从实际出发", level: 48 },   //
         { word: "带案来", level: 48 },   //
         { word: "多种分配制并存", level: 48 },   //
         { word: "在定条件下", level: 48 },   //
-        { word: "个民族", level: 48 },   //
         { word: "热爱劳及劳动", level: 48 },     //
         { word: "枪打出头乌", level: 48 },     //pink 粉红 “枪打出头鸟” 
+        { word: "社会实我", level: 48 },// 社会实我是不断发展的 社会实践
+        { word: "医疗教治", level: 48 },//用于患者医疗教治费用的补助 医疗救治
+        { word: "医疗数治", level: 48 },   //
+        { word: "付相应责任", level: 48 },     //应付相应责任
+        { word: "辦别", level: 48 },     // 辨别是非
+        { word: "实现国家治理体现和治理能力现代化", level: 48 },     //雷
+        { word: "民主平等", level: 48 },     //
+        { word: "读职", level: 48 },     // 渎职 对失职读职的进行依法惩处
+        { word: "其抗疫情", level: 48 },//
+        { word: "积极态度面", level: 48 },     //pink 粉红 
+        { word: "这并意味", level: 48 },//但这并意味着 雷
+        { word: "族自治权", level: 48 },   //广西壮族自治权
+        { word: "不负责任会付出代价”，故C", level: 48 },     //D. 对自己不负责任会付出代价”，故C项错误  雷 
+        { word: "将变成关好的", level: 48 },     //世界将变成关好的人间， 雷
+        { word: "互签", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //
@@ -193,27 +209,36 @@
         // { word: "是是", level: 48 },     //
         // { word: "是是", level: 48 },     //
         // { word: "当家做主", level: 48 },//
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //
-        // { word: "是是", level: 48 },     //
-        // { word: "是是", level: 48 },     //
-        // { word: "是是", level: 48 },     //
-        // { word: "是是", level: 48 },     //
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },     //pink 粉红 
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //
-        // { word: "是是", level: 48 },     //
-        // { word: "是是", level: 48 },     //
-        // { word: "是是", level: 48 },     //
-        // { word: "是是", level: 48 },     //
-        // { word: "当家做主", level: 48 },//
 
 
-
-
+        { word: "法规法", level: 18 },// 法律法规法角度 法律法规的角度
+        { word: "桃战", level: 18 },// 敢于向权威桃战。
+        { word: "披巧", level: 18 },//  批判的披巧:抛判只针对事情本身
+        { word: "抛判", level: 18 },// 
+        { word: "进人", level: 18 },// 雷 世界再度进人“博鳌时间”，体现我国国际地位的提高，故③项正确；
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        { word: "善良有爱", level: 18 },// 善良有爱，————有爱→友爱
+        { word: "广能", level: 18 },// 促进国际广能合作,改为促进国际产能合作，
+        { word: "是今时代", level: 18 },// 和平与发展是今时代的主题。
+        { word: "互签", level: 18 },// 互签”改成“互鉴”。
+        { word: "不同人们", level: 18 },// 不同人们建议把“不同人们”改成“不同人”。
+        { word: "战役英", level: 18 },//战役英雄  疫情
+        { word: "个民族", level: 18 },   //
+        { word: "国家社会", level: 18 },     //pink 粉红 
+        { word: "家业指", level: 18 },// 为党和国家业指引正确的前进方向。
+        { word: "校级", level: 18 },// MistyRose 浅浅红 遵守校规校级————级→→纪
+        { word: "带案来", level: 18 },// 一盎司创意能够带案来无以数计的商业利益
+        { word: "项违背", level: 18 },// 不得与宪法的原则和精神项违背，
         { word: "以宪治", level: 18 },// 就是坚持以宪治国的要求，而不是坚持以宪执政的原因
         { word: "以宪执", level: 18 },//  MistyRose 浅浅红
         { word: "和反应", level: 18 },// 法律是统治阶级意志的体现和反应……反应→反映
@@ -230,36 +255,20 @@
         { word: "价值观体系建设", level: 18 },// 社会主义核心价值体系建设
         { word: "问前", level: 18 },// 问前改为奔腾向前 MistyRose 浅浅红  
         { word: "主取决于", level: 18 },// 主取决于 改为 主要取决于
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
+        { word: "付责", level: 18 },// 应付相应责任
+        { word: "角度析", level: 18 },// 从公民的角度析 改成分析
+        { word: "建议项", level: 18 },// 公民支持重点建议项目 建设
+        { word: "创作性", level: 18 },// 激发创作性……作→造。
+        { word: "支律", level: 18 },// 民族精神的支律和鼓舞作用是密不可分的 支律 改为 支撑
+        { word: "兼顺", level: 18 },// 兼顺效率与公平 兼顺 改为 兼顾
+        { word: "加以规律", level: 18 },// 公民的基本权利是由法律加以规律的，——————规律→规定
+        { word: "指定定", level: 18 },// 尽快到指定定医院就医
+        { word: "全年从严", level: 18 },// 十八届六中全会强调全年从严治党
+        { word: "列题", level: 18 },// 类题目
+        { word: "活动动", level: 18 },// 加强公共文化设施建设，开展公共文化服务活动动， 
+        { word: "该发第", level: 18 },// 人权原则的直接体现是该发第五条 发→法
+        { word: "法执法检", level: 18 },// 开展法执法检查 改为 开展执法检查
+        { word: "地方各级全国人", level: 18 },// 还可以通过地方各级全国人民代表大会行使国家权力，
         { word: "望造", level: 18 },// 文化望造人生 塑造
         { word: "安情", level: 18 },//  疫情
         { word: "全国盘棋", level: 18 },// 一盘棋
@@ -308,7 +317,7 @@
         { word: "同时有", level: 18 },// 同时有害怕自己的能力不够 又
         { word: "体系体系", level: 18 },// 不体现竞争有序的现代市场体系体系
         { word: "小微企业按照规定实行缓征、减征", level: 18 },// 雷 对符合条件的小微企业按照规定实行缓征、减征、免征企业所得税、增值税等 可能是：表述不全，加上措施。
-        // { word: "由", level: 18 },// 
+        { word: "目觉", level: 18 },// 目觉履行公民义务”
         // { word: "由", level: 18 },// 
         // { word: "由", level: 18 },// 
         // { word: "由", level: 18 },// MistyRose 浅浅红
@@ -419,18 +428,17 @@
         { word: "素尚", level: 18 }, //  崇尚
         { word: "程程", level: 18 },   // “程程度”改成“程度”
         { word: "兴题", level: 18 },//  兴趣。
-        { word: "兴起", level: 18 }, 
         { word: "分主要", level: 18 },//主要分     
         { word: "引导宗教与社会主义相适应", level: 18 },//引导宗教与社会主义社会相适应
         { word: "团结的党", level: 18 },// 把广大信教群众团结的党和政府周围
         { word: "由法律依据", level: 18 }, //由法律依据……由→有
         { word: "全国入大", level: 18 },//MistyRose 浅浅红
         { word: "宗教和顺", level: 18 },//  雷
-        // { word: "由", level: 18 },// 
-        // { word: "统帅", level: 18 },   // 
-        // { word: "由", level: 18 },// 
-        // { word: "统帅", level: 18 }, 
-        // { word: "躲过", level: 18 },//MistyRose 浅浅红
+        { word: "不属于社会主义本质要求的内容，故C", level: 18 },// 雷 不属于社会主义本质要求的内容，故C 雷
+        { word: "中国特色社会主义度是根", level: 18 },   //  雷，
+        { word: "协商构成", level: 18 },// 政协委员是我国专门政治协商构成员，
+        { word: "下去派出所", level: 18 }, //辖区
+        { word: "经济基层", level: 18 },//MistyRose 浅浅红
         // { word: "简介参", level: 18 },
         // { word: "由", level: 18 },// 
         // { word: "统帅", level: 18 }, 
@@ -443,8 +451,8 @@
         //    {        word:"与",        level:12    },  //lightgray
         //    {        word:"于",        level:10    },  //skyblue 
         { word: "国家社会", level: 15 },  // 国际社会  lightcyan
-        { word: "应有", level: 15 },// 应有浩宇负责
-        // { word: "国家社会", level: 15 },  //   lightcyan
+        // { word: "应有", level: 15 },// 应有浩宇负责
+        { word: "对对", level: 15 },  //   lightcyan
         // { word: "既", level:  },  //lightgreen 略微有点亮 
         { word: "耍", level:19 },  //Khaki
         { word: "既", level: 17 },  //purplegray
@@ -457,7 +465,7 @@
         
         // {        word:"检查",     level: 19 },  //Khaki 
         {        word:"髙",     level: 19 },  //Khaki 
-        // {        word:"检查",     level: 19 },  //Khaki 
+        {        word:"!",     level: 19 },  //Khaki 
         // {        word:"检查",     level: 19 },  //Khaki 
         // {        word:"检察",     level: 18 },  //MistyRose
 
