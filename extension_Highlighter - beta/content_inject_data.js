@@ -149,33 +149,58 @@
         { word: "在定条件", level: 48 },     // 在一定条件下  pink 粉红 
         { word: "引领个", level: 48 }, //文化是引领一个民族前行的旗帜
         { word: "保人民", level: 48 },   //切实保障人民知情权
-        // { word: "是是", level: 48 },     //
+        { word: "及映", level: 48 },//  反映
+        { word: "拧虎", level: 48 },   //打虎拍蝇
+        { word: "打黄扫非", level: 48 },     //中国扫黄打非网
+        { word: "创新识", level: 48 },   //要求我们树立创新识 意识
+        { word: "自身系质", level: 48 },     //  提升自身系质。    素质 雷           pink 粉红 
+        { word: "不代价", level: 48 },//是不代价与回报  不计代价
+        { word: "堂不动摇", level: 48 },   //堂不动摇地以经济建设为中心 毫不
+        { word: "战性", level: 48 },     //推动经济结构战性调整，
+        { word: "发菜", level: 48 },//多种所有制经济共同发菜，
+        { word: "清费", level: 48 },   //发挥清费对经济发展的基础性作用 消费
+        { word: "故项正确", level: 48 },   // 不完整  改为 故②项正确
+        { word: "李子染", level: 48 },   // 李子柒
+        { word: "全民依法治国", level: 48 },   //全面
+        { word: "數衍", level: 48 },   //數衍塞责
+        { word: "遵法守法", level: 48 },   //
+        { word: "国家社会", level: 48 },     //pink 粉红 
+        { word: "习近平新时期中国特色", level: 48 },// 新时代
+        { word: "，始害无穷。", level: 48 },   //123
+        { word: "教育教育", level: 48 },     //
+        { word: "多个和国家", level: 48 },//
+        { word: "坚持切从实际出发", level: 48 },   //
+        { word: "带案来", level: 48 },   //
+        { word: "多种分配制并存", level: 48 },   //
+        { word: "在定条件下", level: 48 },   //
+        { word: "个民族", level: 48 },   //
+        { word: "热爱劳及劳动", level: 48 },     //
+        { word: "枪打出头乌", level: 48 },     //pink 粉红 “枪打出头鸟” 
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //
-        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },     //pink 粉红 
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
         // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //pink 粉红 
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },     //pink 粉红 
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
@@ -189,30 +214,73 @@
 
 
 
-
+        { word: "以宪治", level: 18 },// 就是坚持以宪治国的要求，而不是坚持以宪执政的原因
+        { word: "以宪执", level: 18 },//  MistyRose 浅浅红
+        { word: "和反应", level: 18 },// 法律是统治阶级意志的体现和反应……反应→反映
+        { word: "很不能", level: 18 },// 当前我国生产力发展水平很不能————很→还
+        { word: "行使权力有界限", level: 18 },// 做到行使权力有界限……权力→权利
+        { word: "地地", level: 18 },// 脚踏实地地付出努力“地”改成“的
+        { word: "集中人民办大事", level: 18 },// 人民”改成“力量
+        { word: "知识要素", level: 18 },// 知识要素改成知识要点
+        { word: "设要求", level: 18 },// 设要求改为设问要求
+        { word: "是可以是", level: 18 },// A.敬畏感是可以是对伟大人物的崇敬感
+        { word: "漫画反映了漫画", level: 18 },// 漫画反映了漫画反映了我国
+        { word: "本题的对", level: 18 },// 本题的对 本题是对教材基础知识的考查
+        { word: "一切权利属于人民", level: 18 },// 中华人民共和国的一切权利属于人民 权利 改为 权力
+        { word: "价值观体系建设", level: 18 },// 社会主义核心价值体系建设
+        { word: "问前", level: 18 },// 问前改为奔腾向前 MistyRose 浅浅红  
+        { word: "主取决于", level: 18 },// 主取决于 改为 主要取决于
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
         { word: "望造", level: 18 },// 文化望造人生 塑造
         { word: "安情", level: 18 },//  疫情
         { word: "全国盘棋", level: 18 },// 一盘棋
-        // { word: "由", level: 18 },// MistyRose 浅浅红
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// MistyRose 浅浅红
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
+        { word: "知识的入手", level: 18 },     //知识的入手进行作答        
+        { word: "自恨", level: 18 },// “自恨”改成“自身”  MistyRose 浅浅红
+        { word: "材料为表明", level: 18 },// 材料未表明
+        { word: "从坚强", level: 18 },// 从坚强宪法监督 加强
+        { word: "国家对的", level: 18 },// 但处处维护国家对的利益……对→队。
+        { word: "建立的完善", level: 18 },// 中国逐渐建立的完善了 和
+        { word: "在进行分析", level: 18 },// 再
+        { word: "于他人", level: 18 },//  与
+        { word: "文化文化", level: 18 },// 
+        { word: "可以我们", level: 18 },//  让我们
+        { word: "遵守法定义务", level: 18 },// 没有遵守法定义务
+        { word: "治国的伟大事迹", level: 18 },// 依法治国的伟大事迹  伟大实践MistyRose 浅浅红
+        { word: "的些", level: 18 },// 我国在保障民生方面的些重要举措
+        { word: "材料使如何", level: 18 },// 材料使如何发挥意识能动作用的
+        { word: "一切权利属于人民", level: 18 },// 一切权利属于人民 权力
+        { word: "说法中太", level: 18 },//  该选项说法中太绝对，
+        { word: "依法行使权利", level: 18 },// 依法行使权利……权利→权力
+        { word: "有利于有利", level: 18 },// 这一举措有利于有利于政府科学决策
         { word: "解答是", level: 18 },//  解答时   MistyRose 浅浅红
         { word: "创断", level: 18 },//  创新
         { word: "法律效率", level: 18 },// 效力
@@ -375,8 +443,9 @@
         //    {        word:"与",        level:12    },  //lightgray
         //    {        word:"于",        level:10    },  //skyblue 
         { word: "国家社会", level: 15 },  // 国际社会  lightcyan
+        { word: "应有", level: 15 },// 应有浩宇负责
         // { word: "国家社会", level: 15 },  //   lightcyan
-        // { word: "既", level:  },  //lightgreen 略微有点亮
+        // { word: "既", level:  },  //lightgreen 略微有点亮 
         { word: "耍", level:19 },  //Khaki
         { word: "既", level: 17 },  //purplegray
         { word: "即", level: 15 },  //lightcyan
@@ -385,6 +454,11 @@
         { word: "权利", level: 13 },  // Ivory;
         { word: "权力", level: 16 },  //Aqua
         {        word:"检查",     level: 19 },  //Khaki 可
+        
+        // {        word:"检查",     level: 19 },  //Khaki 
+        {        word:"髙",     level: 19 },  //Khaki 
+        // {        word:"检查",     level: 19 },  //Khaki 
+        // {        word:"检查",     level: 19 },  //Khaki 
         // {        word:"检察",     level: 18 },  //MistyRose
 
 
