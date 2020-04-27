@@ -86,7 +86,7 @@
         { word: "具体智慧的结晶", level: 48 },           
         { word: "于切", level: 48 },
         { word: "带口罩", level: 48 },
-        { word: "权力关", level: 48 },
+        { word: "权力关", level: 48 },  // ?? 权力机关？    false 将权力关进制度的笼子里
         { word: "建没", level: 48 },   
         { word: "我各民族", level: 48 },//pink 相对错误
         { word: "奥论", level: 48 },
@@ -130,8 +130,25 @@
         { word: "贫人口", level: 48 },     //贫困
         { word: "可能应做", level: 48 },//可能应做得不好而受到责备……应→因
         { word: "万种创新", level: 48 },   //
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
+        { word: "署期", level: 48 },//《战狼Ⅱ》抓住署期档  雷
+        { word: "习近乎", level: 48 },   //
+        { word: "名营权", level: 48 },     // 名誉
+        { word: "不和题意", level: 48 },// 不合题意
+        { word: "扰乱了秩 ", level: 48 },   //，扰乱了秩 ；没有做到文明出行 雷
+        { word: "骄做", level: 48 },     // 骄傲 雷 
+        { word: "抗议前线", level: 48 },  // 抗疫前线  
+        { word: "执政理念是以人为本", level: 48 },   //执政理念是立党为公，执政为民
+        { word: "劳及劳动人民", level: 48 },     //pink 粉红 尊重和热爱劳动及劳动人民
+        { word: "共字单车", level: 48 },//共享单车
+        { word: "怡当", level: 48 },   // 恰当
+        { word: "安情防控", level: 48 },     //疫情
+        { word: "文化包新", level: 48 },// 创新
+        { word: "安全行使", level: 48 },   // 为了孩子们安全行使， 雷 行驶
+        { word: "一带路", level: 48 },     // 一带一路
+        { word: "全勃以赴", level: 48 },   // 全力以赴
+        { word: "在定条件", level: 48 },     // 在一定条件下  pink 粉红 
+        { word: "引领个", level: 48 }, //文化是引领一个民族前行的旗帜
+        { word: "保人民", level: 48 },   //切实保障人民知情权
         // { word: "是是", level: 48 },     //
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
@@ -143,7 +160,10 @@
         // { word: "是是", level: 48 },     //
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //pink 粉红 
         // { word: "当家做主", level: 48 },//
@@ -151,17 +171,48 @@
         // { word: "是是", level: 48 },     //
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //
         // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },   //
+        // { word: "是是", level: 48 },     //
         // { word: "是是", level: 48 },     //pink 粉红 
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
         // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "是是", level: 48 },     //
+        // { word: "当家做主", level: 48 },//
 
 
+
+
+
+        { word: "望造", level: 18 },// 文化望造人生 塑造
+        { word: "安情", level: 18 },//  疫情
+        { word: "全国盘棋", level: 18 },// 一盘棋
+        // { word: "由", level: 18 },// MistyRose 浅浅红
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// MistyRose 浅浅红
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },// 
         { word: "解答是", level: 18 },//  解答时   MistyRose 浅浅红
         { word: "创断", level: 18 },//  创新
         { word: "法律效率", level: 18 },// 效力
@@ -184,11 +235,11 @@
         { word: "由国家制度", level: 18 },// 制定 MistyRose 浅浅红
         { word: "终南山", level: 18 },     // 钟南山” 
         { word: "社会社会", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },// 
+        { word: "知只", level: 18 },// 知识
+        { word: "由法律依据", level: 18 },// 有
+        { word: "同时有", level: 18 },// 同时有害怕自己的能力不够 又
+        { word: "体系体系", level: 18 },// 不体现竞争有序的现代市场体系体系
+        { word: "小微企业按照规定实行缓征、减征", level: 18 },// 雷 对符合条件的小微企业按照规定实行缓征、减征、免征企业所得税、增值税等 可能是：表述不全，加上措施。
         // { word: "由", level: 18 },// 
         // { word: "由", level: 18 },// 
         // { word: "由", level: 18 },// 
@@ -268,18 +319,6 @@
 
 
 
-        //    {        word:"与",        level:12    },  //lightgray
-        //    {        word:"于",        level:10    },  //skyblue 
-        // { word: "既", level:  },  //lightgreen 略微有点亮
-        // { word: "即", level: 10 },  //skyblue 有点亮
-        { word: "既", level: 17 },  //purplegray
-        { word: "即", level: 15 },  //lightcyan
-        { word: "已", level: 17 },  //purplegray
-        // { word: "己", level: 15 },  //lightcyan
-        { word: "权利", level: 13 },  // Ivory;
-        { word: "权力", level: 16 },  //Aqua
-        {        word:"检查",     level: 19 },  //Khaki 可
-        // {        word:"检察",     level: 18 },  //MistyRose
 
         { word: "这样做法", level: 18 },  //MistyRose
         { word: "躲过", level: 18 },
@@ -292,7 +331,7 @@
         { word: "负责入", level: 18 },
         { word: "经济话", level: 18 }, //经济活
         { word: "话经济", level: 18 },//MistyRose 浅浅红
-        { word: "相应", level: 18 },  // 响应国家号召
+        { word: "相应国家号召", level: 18 },  // 响应国家号召
         { word: "学习自我调节", level: 18 }, //学会、 进一步激发
         { word: "进步激发", level: 18 }, 
         { word: "题干意识", level: 18 },//  意思
@@ -314,11 +353,11 @@
         { word: "兴题", level: 18 },//  兴趣。
         { word: "兴起", level: 18 }, 
         { word: "分主要", level: 18 },//主要分     
-        // { word: "简介参", level: 18 },
-        // { word: "由", level: 18 },// 
-        // { word: "统帅", level: 18 }, 
-        // { word: "躲过", level: 18 },//MistyRose 浅浅红
-        // { word: "简介参", level: 18 },// 
+        { word: "引导宗教与社会主义相适应", level: 18 },//引导宗教与社会主义社会相适应
+        { word: "团结的党", level: 18 },// 把广大信教群众团结的党和政府周围
+        { word: "由法律依据", level: 18 }, //由法律依据……由→有
+        { word: "全国入大", level: 18 },//MistyRose 浅浅红
+        { word: "宗教和顺", level: 18 },//  雷
         // { word: "由", level: 18 },// 
         // { word: "统帅", level: 18 },   // 
         // { word: "由", level: 18 },// 
@@ -333,6 +372,20 @@
         // { word: "统帅", level: 18 },   //        
         
 
+        //    {        word:"与",        level:12    },  //lightgray
+        //    {        word:"于",        level:10    },  //skyblue 
+        { word: "国家社会", level: 15 },  // 国际社会  lightcyan
+        // { word: "国家社会", level: 15 },  //   lightcyan
+        // { word: "既", level:  },  //lightgreen 略微有点亮
+        { word: "耍", level:19 },  //Khaki
+        { word: "既", level: 17 },  //purplegray
+        { word: "即", level: 15 },  //lightcyan
+        { word: "已", level: 17 },  //purplegray
+        // { word: "己", level: 15 },  //lightcyan
+        { word: "权利", level: 13 },  // Ivory;
+        { word: "权力", level: 16 },  //Aqua
+        {        word:"检查",     level: 19 },  //Khaki 可
+        // {        word:"检察",     level: 18 },  //MistyRose
 
 
         
