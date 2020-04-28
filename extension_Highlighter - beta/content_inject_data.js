@@ -53,8 +53,8 @@
         // { word: "部们", level: 57 },
 
 
-        { word: "-", level: 48 }, //pink
-        { word: "—", level: 48 }, //pink
+        { word: "-", level: 48 }, //pink 粉红色
+        { word: "—", level: 18 }, //淡色
         { word: "给与", level: 48 },
         { word: "给于", level: 48 },
         { word: "是是", level: 48 },
@@ -84,9 +84,8 @@
         { word: "的的", level: 48 },
         { word: "静中游动", level: 48 },
         { word: "具体智慧的结晶", level: 48 },           
-        { word: "于切", level: 48 },
         { word: "带口罩", level: 48 },
-        { word: "权力关", level: 48 },  // ?? 权力机关？    false 将权力关进制度的笼子里
+        // { word: "权力关", level: 48 },  // ?? 权力机关？    false 将权力关进制度的笼子里
         { word: "建没", level: 48 },   
         { word: "我各民族", level: 48 },//pink 相对错误
         { word: "奥论", level: 48 },
@@ -226,18 +225,37 @@
         // { word: "是是", level: 48 },     //
         // { word: "当家做主", level: 48 },//
 
+        // { word: "由", level: 18 },//            
+        { word: "读体干", level: 18 },//解读体干
+        { word: "相互相成", level: 18 },// 相辅相成
+        { word: "故D②④正确，ABD错误", level: 18 },//   雷          
+        { word: "本题主要考查的知识点。", level: 18 },// 雷
+        { word: "检查权", level: 18 },//            
+        { word: "所有法律的综合", level: 18 },//宪法不是所有法律的综合 总和
+        { word: "张文红", level: 18 },// 
+        { word: "违法相关法", level: 18 },//            
+        { word: "社会各部的", level: 18 },//有利于实现资源在社会各部的合理分配 各部 改为 各部门
+        { word: "市场放税", level: 18 },//向市场放税 改为 向市场放权 
+        { word: "影响影响", level: 18 },// 
+        { word: "集体的事物", level: 18 },//      集体的事物……事物→事务。      
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//            
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },// 
+        // { word: "由", level: 18 },//            
+        // { word: "由", level: 18 },//
         { word: "考考查", level: 18 },//  本题考考查的知识点是
+        // { word: "于切", level: 18 }, //  ？？有冲突 ：有利于切实
         { word: "广品", level: 18 },//       因此创新文化广品     
         { word: "忧于", level: 18 },//我国农村经济发展忧于城镇经济发展
         { word: "法规定了国家最根本、最基础", level: 18 },// “宪法规定了国家最根本、最基础的问题”改成“宪法规定了国家生活中最根本、最重要的问题”
         { word: "集改", level: 18 },//  浅浅粉红          集改”改成“篡改”
         { word: "总览全局", level: 18 },// 总览全局、协调各方的作用，改为总揽全局、协调各方的作用，
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },//            
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },// 
-        // { word: "由", level: 18 },//            
-        // { word: "由", level: 18 },//  
+        { word: "仟细", level: 18 },//  仔细
+        { word: "学生学生", level: 18 },//  要依靠学生学生日常生活中对时政素材的关注和积累          
+        { word: "党统揽全局", level: 18 },//党统揽全局、协调各方改为了党总揽全局、协调各方
+        { word: "社会和谐社会", level: 18 },// 
+        { word: "结合相关只是", level: 18 },//          雷  可以从努力学习与参加实践的角度并结合相关只是进行说明即可。  
         { word: "荣誉被泄露", level: 18 },// 个人隐私及信息荣誉被泄露，  容易
         { word: "抗议防疫", level: 18 },// 抗疫防疫
         { word: "规定时限", level: 18 },// 并规定时限公民基本权利的保障措施——————时限→实现
@@ -273,7 +291,7 @@
         { word: "互签", level: 18 },// 互签”改成“互鉴”。
         { word: "不同人们", level: 18 },// 不同人们建议把“不同人们”改成“不同人”。
         { word: "战役英", level: 18 },//战役英雄  疫情
-        { word: "个民族", level: 18 },   //
+        // { word: "个民族", level: 18 },   // 干扰  一个民族
         { word: "国家社会", level: 18 },     //pink 粉红 
         { word: "家业指", level: 18 },// 为党和国家业指引正确的前进方向。
         { word: "校规校级", level: 18 },// MistyRose 浅浅红 遵守校规校级————级→→纪
@@ -415,7 +433,7 @@
         { word: "考察", level: 27 }, // brown;
         { word: "考查", level: 13 },  // Ivory;
 
-        { word: "全是", level: 21 },  //Lavender  
+        // { word: "全是", level: 21 },  //Lavender  
         { word: "选择者", level: 21 },   
         { word: "的解，", level: 21 },  //Lavender 
         // { word: "政机", level: 21 },  //    ？？
@@ -448,7 +466,7 @@
         { word: "经济话", level: 18 }, //经济活
         { word: "话经济", level: 18 },//MistyRose 浅浅红
         { word: "相应国家号召", level: 18 },  // 响应国家号召
-        { word: "学习自我调节", level: 18 }, //学会、 进一步激发
+        // { word: "学习自我调节", level: 18 }, //学会、 进一步激发   ？ 没有截图佐证  跟正确文字混淆影响正常审题
         { word: "进步激发", level: 18 }, 
         { word: "题干意识", level: 18 },//  意思
         { word: "围内是", level: 18 },//  设问范围内是
