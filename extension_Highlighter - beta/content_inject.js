@@ -69,7 +69,7 @@ function addlistener() {
 
 
 
-function rolling(delay=1400) {
+function rolling(delay=2400) {
 
  
  
