@@ -196,7 +196,7 @@
         { word: "这是企业能力承担社会责任的体现", level: 48 },   //
         { word: "中国对促进世界共同发展为外交宗旨", level: 48 },     //
         { word: "中国负责人大国", level: 48 },     //
-        { word: "公民的个人利于与国家利益是", level: 48 },     //
+        { word: "公民的个人利于与国家利益", level: 48 },     //
         { word: "的基经济制度", level: 48 },     //
         { word: "以法治国", level: 48 },     //
         { word: "是主与客观", level: 48 },//是主与客观的具体的历史的统一
@@ -238,6 +238,29 @@
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        { word: "公民的公民的", level: 18 },//公民的公民的”重复，删掉一个“公民的”
+        { word: "互患", level: 18 },//包容互惠
+        { word: "这是由我国现阶段的基本国情所决定的", level: 18 },//这是由我国现阶段的基本国情所决定的”改成“这是由我国的社会主义性质和现阶段的基本国情所决定的”。
+        { word: "经营产略", level: 18 },//经营产略 柯达 雷
+        { word: "总总书", level: 18 },//总总书记
+        { word: "白强不息", level: 18 },//五千年白强不息，
+        { word: "兴今世界", level: 18 },//兴今世界 当今世界
+        { word: "部门门", level: 18 },//为相关部门门制定社会
+        { word: "勤芳", level: 18 },//勇敢
+        { word: "扯示", level: 18 },//扯示、有错别字
+        { word: "箪", level: 18 },//简政放权改箪
+        { word: "经建设", level: 18 },//
+        { word: "年年益寿", level: 18 },//年年益寿；表述错误，延年益寿，
+        { word: "带好口罩", level: 18 },//出门戴好口罩
+        { word: "第一步社会主义宪法", level: 18 },//第一步社会主义宪法
+        { word: "思雄", level: 18 },//思维特点
+        { word: "抗议英雄", level: 18 },//要表达出对抗议英雄的尊重。
         { word: "分析我当在", level: 18 },//要求运用政治生活知识分析我当在应对疫情中发挥的 作用 我当 改为我党
         { word: "有合法的方式发泄", level: 18 },//有合法的方式发泄不良情绪。————有→→用
         { word: "集体的哺育和支持", level: 18 },//我们的成长离不开集体的哺育和支持——集体→家庭
@@ -851,26 +874,7 @@
         { word: "目觉", level: 18 },// 目觉履行公民义务”
         { word: "法制社会", level: 18 },// 法治社会一体建设
         { word: "于什么", level: 18 },
-        // { word: "由", level: 18 },// MistyRose 浅浅红
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },// MistyRose 浅浅红
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
+        
 
 
 
@@ -889,20 +893,7 @@
         { word: "报本", level: 27 },
         { word: "看郭某鹏待", level: 27 },
         { word: "克已奉公", level: 27 },
-        // { word: "于什么", level: 27 }, //27] = brown
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 }, //27] = brown
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
-        // { word: "放放", level: 27 },
+        
 
         { word: "考察", level: 27 }, // brown;
         { word: "考查", level: 13 },  // Ivory;
@@ -914,13 +905,7 @@
         { word: "下工夫", level: 21 },  //Lavender  淡暗灰色 一丝丝蓝
         // { word: "要强", level: 21 },  //  ？？
         { word: "现代建设", level: 21 },   //现代化
-        // { word: "全是", level: 21 },  //Lavender
-        // { word: "全是", level: 21 },
-        // { word: "全是", level: 21 },
-        // { word: "全是", level: 21 },
-        // { word: "全是", level: 21 },  //Lavender
-        // { word: "全是", level: 21 },
-        // { word: "全是", level: 21 },
+        
 
 
 
@@ -970,13 +955,7 @@
         { word: "协商构成", level: 18 },// 政协委员是我国专门政治协商构成员，
         { word: "下去派出所", level: 18 }, //辖区
         { word: "经济基层", level: 18 },//MistyRose 浅浅红
-        // { word: "简介参", level: 18 },
-        // { word: "由", level: 18 },//
-        // { word: "统帅", level: 18 },
-        // { word: "躲过", level: 18 },//MistyRose 浅浅红
-        // { word: "简介参", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "统帅", level: 18 },   //
+        
 
 
         //    {        word:"与",        level:12    },  //lightgray
