@@ -231,6 +231,68 @@
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        { word: "共克难过", level: 18 },//共克难过”，改为：共克难关
+        { word: "社公劳动", level: 18 },//与社公劳动生产率成反比
+        { word: "供欢影响", level: 18 },//供欢影响价格
+        { word: "慢慢人生路", level: 18 },//在慢慢人生路上
+        { word: "オ", level: 18 },//
+        { word: "完备问", level: 18 },//
+        { word: "机制灵活的", level: 18 },//机制灵活的方法
+        { word: "宪法与其他法的关系", level: 18 },//宪法与其他法的关系 “法”改成“法律”。
+        { word: "人大大代表", level: 18 },//人大大代表不都是
+        { word: "依法执政的是党执政", level: 18 },//依法执政的是党执政基本方式
+        { word: "位出发点", level: 18 },//以人民利益位出发点和落脚点
+        { word: "也好保护好", level: 18 },//同时也好保护好个人的合法利益
+        { word: "和及有", level: 18 },//各级党委和及有关政府部门
+        { word: "灭提建", level: 18 },//灭提建设者  媒体
+        { word: "这位现了", level: 18 },//这位现了文化的相对稳定性
+        { word: "地级市与属于县级，杭州市西湖区人大代表实行直接选举", level: 18 },//
+        { word: "国中国共产党", level: 18 },//C、国中国共产党是执政党
+        { word: "事务故，", level: 18 },//管理国家各项事务故，
+        { word: "执党执政", level: 18 },//依法执党执政的基本方式
+        { word: "法制观念的好公民", level: 18 },//高度法制观念的好公民————法制→→法治
+        { word: "園难", level: 18 },//  困难
+        { word: "培券", level: 18 },//培券学生
+        { word: "国际秩序的维护者，故B选项正确；", level: 18 },// 雷 选项  
         { word: "陷人", level: 18 },//
         { word: "从断提", level: 18 },//可从断提升自身综合素质，
         { word: "要过质变", level: 18 },//最终是要过质变实现的
