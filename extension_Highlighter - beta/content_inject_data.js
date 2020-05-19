@@ -217,7 +217,7 @@
         // { word: "是是", level: 48 },     //pink 粉红
         // { word: "当家做主", level: 48 },//
         // { word: "是是", level: 48 },   //
-        // { word: "是是", level: 48 },     //
+        { word: "黄伟旭的举行是关爱", level: 48 },     //
         // { word: "是是", level: 48 },     //
         { word: "本题以 为素材", level: 48 },     //
         { word: "本题以为素材", level: 48 },     //
@@ -250,6 +250,46 @@
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        { word: "全时间还是有", level: 18 },//全时间还是有国别之分
+        { word: "将强的意志", level: 18 },//将强的意志  坚强
+        { word: "主要重视点为", level: 18 },//
+        { word: "的重视点为", level: 18 },//本题考查的主要重视点为
+        { word: "引人", level: 18 },//引人
+        { word: "以人为，", level: 18 },//这说明政府以人为，
+        { word: "义知务", level: 18 },//的义知务，
+        { word: "推进依法效果", level: 18 },//说明全面推进依法效果，效果改为治国
+        { word: "收到侵害", level: 18 },//公民权利收到侵害，
+        { word: "人工智不", level: 18 },//人工智不能取代其他科技创新
+        { word: "观财控", level: 18 },//观财控政策，都改为：宏观调控政策
+        { word: "纳税关荣", level: 18 },//依法纳税关荣等角度作答。
+        { word: "决策是的表现", level: 18 },//做出决策是的表现
         { word: "水平不断是高", level: 18 },//，人民生活水平不断是高，
         { word: "也大自然", level: 18 },//学会也大自然和谐共处
         { word: "卖出了坚", level: 18 },//卖出了一个又一个坚实的步伐
@@ -644,7 +684,7 @@
         { word: "的产主", level: 18 },//发展的实质是新事物的产主和旧事物的灭亡。 雷
         { word: "我们经达到", level: 18 },//我们经达到的小康是总体小康，
         { word: "取得切成就", level: 18 },//我们取得切成就和进步的根本保证
-        { word: "相互关系，", level: 18 },//
+        // { word: "相互关系，", level: 18 },//
         { word: "互相关系", level: 18 },//关心
         { word: "分溺类", level: 18 },//属于原因分溺类题目
         { word: "大力宣传力度", level: 18 },//社会媒体：要大力宣传力度，
