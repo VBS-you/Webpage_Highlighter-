@@ -270,6 +270,95 @@
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        { word: "本题可以调控情绪", level: 18 },//本题可以调控情绪的方法的角度分析作答”改成“本题可以从
+        { word: "知识点为：宪法的相关知识", level: 18 },//本题主要考查的知识点为：宪法的相关知识。”修改为“本题主要考查宪法的相关知识”
+        { word: "与与", level: 18 },//商品价值总量与与社会必要劳动时间，去掉一个与
+        { word: "解析]", level: 18 },//
+        { word: "[答案", level: 18 },//
+        { word: "答案]", level: 18 },//
+        { word: "文化又优秀和", level: 18 },//传统文化又优秀和落后之分
+        { word: "青山不是金山", level: 18 },// 就是金山银山
+        { word: "珍惜野生动物", level: 18 },//特别是珍惜野生动物
         { word: "免职双轨", level: 18 },//免职双轨————双轨→→双规。
         { word: "休育", level: 18 },//进行休育活动;————休→→体
         { word: "自由是由限制", level: 18 },//自由是由限制的
