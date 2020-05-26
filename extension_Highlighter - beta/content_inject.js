@@ -139,7 +139,7 @@ function minesweeping() {
          //mining   #mind of landmine
 
 
-         function reveal() {
+         function reveal() {   //此处有一个bug  仅revael 不 compare  不painting
             reveal_answer_btn=document.querySelector("#tikuImgshow > div.left-part.common-style > h5 > div.mini-btn")
             if (reveal_answer_btn!=null) {
                 reveal_answer_btn.click()
