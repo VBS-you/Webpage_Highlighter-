@@ -130,7 +130,7 @@ function minesweeping() {
                 if(answertext==targettext){
                     alert("!!!小心地雷！！！")
                 } 
-            }
+            }else{ alert("网络不好，请刷新重试")}
            
         }     
         }, waittime);
