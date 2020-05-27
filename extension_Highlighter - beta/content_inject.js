@@ -118,7 +118,7 @@ function minesweeping() {
         comparing(waittime)
 
             
-       function comparing(waittime=700) {
+       function comparing(waittime=1700) {
         setTimeout(() => {
         answerdiv=document.querySelector("#tikuImgshow > div.left-part.common-style > div.question-cont.answer-cont")
         if (answerdiv!=null) {
@@ -152,7 +152,7 @@ function minesweeping() {
                 reveal_answer_btn.click()
                 } 
 
-               }, 1800); 
+               }, 800); //修改 时间间隔 测试
             }
          }
 }
