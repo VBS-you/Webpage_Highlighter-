@@ -118,7 +118,7 @@ function minesweeping() {
         comparing(waittime)
 
             
-       function comparing(waittime=1700) {
+       function comparing(waittime=900) {
         setTimeout(() => {
         answerdiv=document.querySelector("#tikuImgshow > div.left-part.common-style > div.question-cont.answer-cont")
         if (answerdiv!=null) {
@@ -130,7 +130,7 @@ function minesweeping() {
                 if(answertext==targettext){
                     alert("!!!小心地雷！！！")
                 } 
-            }else{ alert("网络不好，请刷新重试")}
+            }else{ alert("网络不佳，请刷新重试")}
            
         }     
         }, waittime);
@@ -149,10 +149,10 @@ function minesweeping() {
                 reveal_answer_btn=document.querySelector("#tikuImgshow > div.left-part.common-style > h5 > div.mini-btn")
 
                 if (reveal_answer_btn!=null) {
-                reveal_answer_btn.click()
+                reveal_answer_btn.click() //是不是reveal btn 虽然不为空 但是没有click方法 所以报错？
                 } 
 
-               }, 800); //修改 时间间隔 测试
+               }, 600); //修改 时间间隔 测试
             }
          }
 }
