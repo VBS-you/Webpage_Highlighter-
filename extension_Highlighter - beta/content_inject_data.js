@@ -25,15 +25,11 @@
         { word: "既使", level: 29 },
         { word: "认命", level: 29 },
         { word: "共商国事", level: 29 },
-
-
-
         { word: "完法", level: 57 }, //tomatored
         { word: "自已", level: 57 },
         { word: "己经", level: 18 }, //自己经济承受能力
         { word: "检查机关", level: 57 },
         { word: "检查院", level: 57 },
-
         { word: "领导入", level: 57 },// 绝对错误  雷
         { word: "矛厝", level: 57 },//
         { word: "蚂蚊", level: 57 },
@@ -42,17 +38,6 @@
         { word: "轻犯", level: 57 },
         { word: "关部们", level: 57 },//   绝对错误
         { word: "开关之年", level: 57 },//tomatored
-        // { word: "决第", level: 57 },
-        // { word: "轻犯", level: 57 },
-        // { word: "部们", level: 57 },//   绝对错误 雷
-        // { word: "决第", level: 57 },
-        // { word: "轻犯", level: 57 },
-        // { word: "部们", level: 57 },
-        // { word: "决第", level: 57 },
-        // { word: "轻犯", level: 57 },
-        // { word: "部们", level: 57 },
-
-
 
         { word: "给与", level: 48 },
         { word: "给于", level: 48 },
@@ -81,7 +66,7 @@
         { word: "静中游动", level: 48 },
         { word: "具体智慧的结晶", level: 48 },
         { word: "带口罩", level: 48 },
-        { word: "民主团结", level: 48 },  // ?? 权力机关？    false 将权力关进制度的笼子里
+        { word: "民主团结", level: 48 },  //
         { word: "建没", level: 48 },
         { word: "我各民族", level: 48 },//pink 相对错误
         { word: "奥论", level: 48 },
@@ -90,7 +75,6 @@
         { word: "能产主", level: 48 },
         { word: "会产主", level: 48 },
         { word: "进发出", level: 48 },
-        { word: "并发出", level: 48 },
         { word: "写扬", level: 48 },
         { word: "需本", level: 48 },  //需要
         { word: "考直", level: 48 }, //考查
@@ -178,7 +162,6 @@
         { word: "付相应责任", level: 48 },     //应付相应责任
         { word: "辦别", level: 48 },     // 辨别是非
         { word: "实现国家治理体现和治理能力现代化", level: 48 },     //雷
-        { word: "支特", level: 48 },     //
         { word: "读职", level: 48 },     // 渎职 对失职读职的进行依法惩处
         { word: "其抗疫情", level: 48 },//
         { word: "积极态度面", level: 48 },     //pink 粉红
@@ -186,8 +169,7 @@
         { word: "壮族自治权", level: 48 },   //广西壮族自治权
         { word: "不负责任会付出代价”，故C", level: 48 },     //D. 对自己不负责任会付出代价”，故C项错误  雷
         { word: "将变成关好的", level: 48 },     //世界将变成关好的人间， 雷
-        { word: "互签", level: 48 },     //
-         { word: "事来", level: 48 },     //
+        { word: "事来", level: 48 },     //
         { word: "转为政府职能", level: 48 },     //
         { word: "是我们的生命变得更加饱满丰盈", level: 48 },// 是我们的生命变得更加饱满丰盈
         { word: "入民", level: 48 },// 我国各族入民 雷
@@ -206,23 +188,18 @@
         { word: "少数民主", level: 48 },     //
         { word: "坚特", level: 48 },     //
         { word: "才能得到们的尊重认可", level: 48 },//
-        { word: "因地制宣", level: 48 },   //
-        { word: "内心谈单", level: 48 },     //
-        { word: "亵读", level: 48 },     //
         { word: "相同利益", level: 48 },     //
         { word: "对中国优秀传统传统文化，", level: 48 },     //
-        { word: "陷人", level: 48 },     //
-        { word: "办商", level: 48 },//
-        { word: "我国市", level: 48 },     //pink 粉红
-        { word: "随看", level: 48 },//
         { word: "民族关系原则", level: 48 }, //处理民族关系的基本原则  
         { word: "黄伟旭的举行是关爱", level: 48 },     //
-        { word: "尊重待人", level: 48 },     //
         { word: "本题以 为素材", level: 48 },     //
         { word: "本题以为素材", level: 48 },     //
         { word: "闸述", level: 48 },     //
         { word: "內", level: 48 },//改善內部工作流程， 内部的内
-        // { word: "当家做主", level: 48 },//
+
+
+
+
 
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
