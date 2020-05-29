@@ -81,7 +81,7 @@
         { word: "静中游动", level: 48 },
         { word: "具体智慧的结晶", level: 48 },
         { word: "带口罩", level: 48 },
-        // { word: "权力关", level: 48 },  // ?? 权力机关？    false 将权力关进制度的笼子里
+        { word: "民主团结", level: 48 },  // ?? 权力机关？    false 将权力关进制度的笼子里
         { word: "建没", level: 48 },
         { word: "我各民族", level: 48 },//pink 相对错误
         { word: "奥论", level: 48 },
@@ -90,7 +90,7 @@
         { word: "能产主", level: 48 },
         { word: "会产主", level: 48 },
         { word: "进发出", level: 48 },
-        // { word: "并发", level: 48 },
+        { word: "并发出", level: 48 },
         { word: "写扬", level: 48 },
         { word: "需本", level: 48 },  //需要
         { word: "考直", level: 48 }, //考查
@@ -178,7 +178,7 @@
         { word: "付相应责任", level: 48 },     //应付相应责任
         { word: "辦别", level: 48 },     // 辨别是非
         { word: "实现国家治理体现和治理能力现代化", level: 48 },     //雷
-        // { word: "民主平等", level: 48 },     //
+        { word: "支特", level: 48 },     //
         { word: "读职", level: 48 },     // 渎职 对失职读职的进行依法惩处
         { word: "其抗疫情", level: 48 },//
         { word: "积极态度面", level: 48 },     //pink 粉红
@@ -190,7 +190,6 @@
          { word: "事来", level: 48 },     //
         { word: "转为政府职能", level: 48 },     //
         { word: "是我们的生命变得更加饱满丰盈", level: 48 },// 是我们的生命变得更加饱满丰盈
-        // { word: "达成彼此的理解和包容", level: 48 },//
         { word: "入民", level: 48 },// 我国各族入民 雷
         { word: "这是企业能力承担社会责任的体现", level: 48 },   //
         { word: "中国对促进世界共同发展为外交宗旨", level: 48 },     //
@@ -205,20 +204,20 @@
         { word: "在使用法律", level: 48 },     //
         { word: "总领全局", level: 48 },     //
         { word: "少数民主", level: 48 },     //
-        // { word: "是是", level: 48 },     //
+        { word: "坚特", level: 48 },     //
         { word: "才能得到们的尊重认可", level: 48 },//
         { word: "因地制宣", level: 48 },   //
         { word: "内心谈单", level: 48 },     //
-        // { word: "政治职能", level: 48 },     //
+        { word: "亵读", level: 48 },     //
         { word: "相同利益", level: 48 },     //
         { word: "对中国优秀传统传统文化，", level: 48 },     //
-        // { word: "是是", level: 48 },     //
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },     //pink 粉红
-        // { word: "当家做主", level: 48 },//
-        // { word: "是是", level: 48 },   //
+        { word: "陷人", level: 48 },     //
+        { word: "办商", level: 48 },//
+        { word: "我国市", level: 48 },     //pink 粉红
+        { word: "随看", level: 48 },//
+        { word: "民族关系原则", level: 48 }, //处理民族关系的基本原则  
         { word: "黄伟旭的举行是关爱", level: 48 },     //
-        // { word: "是是", level: 48 },     //
+        { word: "尊重待人", level: 48 },     //
         { word: "本题以 为素材", level: 48 },     //
         { word: "本题以为素材", level: 48 },     //
         { word: "闸述", level: 48 },     //
@@ -356,22 +355,22 @@
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
         // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
+        { word: "再班会", level: 18 },//
+        { word: "法律具有预测", level: 18 },//法律具有预测和指导作用
+        { word: "符合题，", level: 18 },//说法不符合题，
+        { word: "宪法是国家法治统一", level: 18 },//宪法是国家法治统一的基础 制
+        { word: "设法稳定对方", level: 18 },//设法稳定对方  稳住
+        { word: "前进行和", level: 18 },//事物的前进行和曲折性 “前进性”
+        { word: "在于其它文明交流", level: 18 },//
+        { word: "在于其他文明交流", level: 18 },//在于其他文明交流借鉴
+        { word: "给理论指", level: 18 },//
+        { word: "给理论内容", level: 18 },//该理论内容
+        { word: "隐定", level: 18 },//社会和谐稳定。
+        { word: "民你众", level: 18 },//
+        { word: "民你群", level: 18 },//不断满足人民你群众对美好生活
+        { word: "钢要", level: 18 },//体育强国建设纲要
+        { word: "支特", level: 18 },//支特科技进步
+        { word: "严厉必追究", level: 18 },//要严厉必追究
         { word: "关健", level: 18 },//
         { word: "人民代越", level: 18 },//人民代越来越受国际市场重视
         { word: "缺方法", level: 18 },//女生缺方法柔性气质
