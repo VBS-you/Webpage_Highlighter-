@@ -77,7 +77,7 @@ function rolling(delay=1700) {
     setTimeout(() => {
 
 
-        minesweeping()
+        
 
 
         target = document.querySelector("#tikuImgshow > div.right-part.common-style > div")
@@ -85,12 +85,12 @@ function rolling(delay=1700) {
             htmltext = target.innerHTML
             target.innerHTML = painting(htmltext)
           
-        }
+        }else{console.log("painting unseccess target=null ")}
         
         console.log(occurrence)
 
-     
-
+        minesweeping()  //change the seq of minesweeping and painting //try out
+                        //weaken the identify ratio of </p> type dict
     }, delay);
 }
 
@@ -118,19 +118,22 @@ function minesweeping() {
         comparing(waittime)
 
             
-       function comparing(waittime=900) {
+       function comparing(waittime=1100) {
         setTimeout(() => {
         answerdiv=document.querySelector("#tikuImgshow > div.left-part.common-style > div.question-cont.answer-cont")
         if (answerdiv!=null) {
             target = document.querySelector("#tikuImgshow > div.right-part.common-style > div")
             targettext=target.innerText
-            answertext=answerdiv.innerText
+            if (answerdiv!=null) {   //改进了null情况，最大限度的避免在此处中断。
+                answertext=answerdiv.innerText
+            } //但仍然不敢else{} call comparing again。  怕在非目标网页点开时，脚本函数调用死循环。
+            
  
             if(targettext!=null && answertext!=null ){
                 if(answertext==targettext){
                     alert("!!!小心地雷！！！")
-                } 
-            }else{ alert("网络不佳，请刷新重试")}
+                } else{console.log("answertext!=targettext")}
+            }
            
         }     
         }, waittime);
