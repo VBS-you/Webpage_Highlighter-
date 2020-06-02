@@ -201,48 +201,204 @@
 
 
 
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
-        // { word: "由", level: 18 },//
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "替换", level: 18 },// 
+        // { word: "标红词语替换", level: 18 },// 备注
+        // { word: "替换", level: 18 },// 
+        { word: "我同的发展", level: 18 },// 我同的发展仍处于重要战略机遇期 雷
+        { word: "，料体现", level: 18 },// ，料体现了  材料
+        { word: "正确看到", level: 18 },// 
+        { word: "其实知识", level: 18 },// 
+        { word: "末体现", level: 18 },// 
+        { word: "调试", level: 18 },// 
+        { word: "治理雾霾不利", level: 18 },// 
+        { word: "治理雾霾不利", level: 18 },// 对治理雾霾不利的人予以办理”————不利→→不力
+        { word: "接纳和调试", level: 18 },// 接纳和调试青春期的矛盾心理————调试→→调适
+        { word: "人民当家在", level: 18 },// 人民当家在、
+        { word: "在首们", level: 18 },// 要把提高自主创新能力放在首们
+        { word: "都是以绝对运动和相对静止的统一", level: 18 },// 都是以绝对运动和相对静止的统一 改为 一切事物都是绝对运动和相对静止的统一
+        { word: "正确额消费", level: 18 },// 树立正确额消费意识 的
+        { word: "末体现", level: 18 },// 末体现 改为 未体现
+        { word: "探家", level: 18 },// ，人们对未知领域的探家受主客观条件的限制，
+        { word: "不用时代研究的哲学", level: 18 },// 不用时代研究的哲学问题不同 应该是不同时代
+        { word: "解决维护宪法的权威", level: 18 },// 解决维护宪法的权威-----------解决→→积极
+        { word: "的关注点注意到别的", level: 18 },// 转移注意是把当前的关注点注意到别的事情上  转移
+        { word: "不应有人大常委会", level: 18 },// 不应有人大常委会、公安机关管理，故A项错误； 改为“不应由。。”
+        // { word: "发挥视频", level: 18 },// 该主播发挥视频 发布
+        { word: "真是这样的精神", level: 18 },// 
+        { word: "真是这种精神", level: 18 },// 真是这样精神激励着消防队员
+        { word: "圣持", level: 18 },// 辛苦点也能圣持
+        { word: "经:济", level: 18 },// 完善基本经:济制度
+        { word: "允许的范围性行使", level: 18 },// 公民必须在法律允许的范围性行使权利，
+        { word: "传递者美好", level: 18 },// 
+        { word: "负有爱心", level: 18 },// 负有爱心，...关爱传递者美好情感……负有→富有；者→着
+        { word: "束腰考查", level: 18 },//  本题束腰考查的知识点
         { word: "我宪法的", level: 18 },//我宪法的……我后加：国
         { word: "人民民生专政", level: 18 },//我国是人民民生专政的社会主义国家，生改为主
         { word: "廉洁公", level: 18 },//促使公职人员廉洁公————“公”前加：奉
@@ -256,7 +412,7 @@
         { word: "援助物质", level: 18 },//援助物质 ”应改为“援助物资”
         { word: "抓装", level: 18 },//
         { word: "国涉嫌", level: 18 },//抓装，国涉嫌  抓获 因涉嫌
-        { word: "由", level: 18 },//感觉材料可知  根据
+        { word: "感觉材料可", level: 18 },//感觉材料可知  根据
         { word: "等等角度", level: 18 },//税收优惠等等角度作答。去掉一个等，
         { word: "社会主又", level: 18 },//引导入们树立社会主又荣辱观
         { word: "入们", level: 18 },//入们
@@ -360,7 +516,7 @@
         { word: "应党增", level: 18 },//应党增强 应当
         { word: "意识为转移", level: 18 },//不以人的意识为转移
         { word: "运用是分析", level: 18 },//考查学生解读材料运用是分析问题的能力，是去掉
-        { word: "法律之上", level: 18 },//法律之上应成为  法律至上
+        { word: "法律之上应成", level: 18 },//法律之上应成为  法律至上
         { word: "轻济", level: 18 },//转变轻济发展方式
         { word: "违法法律", level: 18 },//
         { word: "超越里法律", level: 18 },// 超越里法律的界限   超越了 
@@ -943,7 +1099,7 @@
         { word: "发扬方有", level: 18 },//全国人民发扬方有难，八方支援的精神,
         { word: "行改许可", level: 18 },//行政许可
         { word: "浏苦", level: 18 },//努力使自己成为创新人才浏苦学习
-        { word: "信营", level: 18 },//树立良好的信营和形象,改成树立良好的信誉和形象,
+        { word: "信营", level: 18 },//树立良好的信营和形象,改成树立良好的信誉和形象, counter 诚信营商环境
         { word: "的产主", level: 18 },//发展的实质是新事物的产主和旧事物的灭亡。 雷
         { word: "我们经达到", level: 18 },//我们经达到的小康是总体小康，
         { word: "取得切成就", level: 18 },//我们取得切成就和进步的根本保证

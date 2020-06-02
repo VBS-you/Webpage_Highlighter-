@@ -90,7 +90,7 @@ function rolling(delay=1700) {
         console.log(occurrence)
 
         minesweeping()  //change the seq of minesweeping and painting //try out
-                        //weaken the identify ratio of </p> type dict
+                        //weaken the identify ratio of </p> type dict  <-  which ratio? I dont get it 
     }, delay);
 }
 
