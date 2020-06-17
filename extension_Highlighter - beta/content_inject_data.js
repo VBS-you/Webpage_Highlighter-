@@ -201,123 +201,78 @@
 
 
 
-        // { word: "标红词语替换", level: 18 },// 备注
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "标红词语替换", level: 18 },// 备注
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "标红词语替换", level: 18 },// 备注
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "标红词语替换", level: 18 },// 备注
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "标红词语替换", level: 18 },// 备注
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
-        // { word: "替换", level: 18 },// 
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        // { word: "由", level: 18 },//
+        { word: "不偏不简的", level: 18 },//不偏不简的态度或行为方式 表述错误，不偏不倚
+        { word: "发挥着中要", level: 18 },//等方面发挥着中要作用。
+        { word: "青少年承载着国家和民的未来命运等", level: 18 },//
+        { word: "贯献", level: 18 },//
+        { word: "客现", level: 18 },//
+        { word: "按展规定的", level: 18 },//按展规定的活动方式 按照规定的活动方式
+        { word: "明知仲裁协商", level: 18 },//申请民事仲裁协商
+        { word: "讲求持之", level: 18 },//可见讲求持之以恒的奉献
+        { word: "中国共产先", level: 18 },//中国共产先
+        { word: "共同发和按", level: 18 },//多种所有制经济共同发和按劳分配为主体改
+        { word: "体政协", level: 18 },//体政协委员围绕统筹，改为体现了政协委员围绕统筹，
+        { word: "数字货是", level: 18 },//可见央行数字货是以国家信用改为可见央行数字货币是以国家信用
+        { word: "强刺性", level: 18 },//
+        { word: "不符会漫画", level: 18 },//不符会漫画寓意
+        { word: "掌推", level: 18 },//
+        { word: "必然必然", level: 18 },//中华民族的复兴必然必然伴随着中华文化的繁荣兴盛
+        { word: "题书分析", level: 18 },//本题书分析说明类题目
+        { word: "指占员", level: 18 },//解放军指占员
+        { word: "维护维护", level: 18 },//维护维护安全、荣誉和利益
+        { word: "的生机于活力", level: 18 },//焕发出新的生机于活力
+        { word: "回旗人口", level: 18 },//回旗人口
+        { word: "为了换就", level: 18 },//为了换就一位白血病人
+        { word: "統", level: 18 },//統筹
+        { word: "煎挫愈", level: 18 },//激励整个民族煎挫愈勇
+        { word: "工长老板", level: 18 },//王某作为工长老板
+        { word: "拾金不味", level: 18 },//
+        { word: "独树帜", level: 18 },//:展示了独树帜 ，独领风骚的中华文化。
+        { word: "讲科学幻想变成现实", level: 18 },//讲科学幻想变成现实
+        { word: "重要领城", level: 18 },//
+        { word: "整体对部分的印象", level: 18 },//而非整体对部分的印象。
+        { word: "人民法根本利益", level: 18 },//
+        { word: "纪委建委", level: 18 },//省建委————建→监
+        { word: "直接排人", level: 18 },//
+        { word: "领导千部", level: 18 },//党员领导千部
+        { word: "的动力精神动力", level: 18 },//强大的动力精神动力
+        { word: "些了一封", level: 18 },//些了一封信
+        { word: "未防疫一线", level: 18 },//未防疫一线地区配送物资 
+        { word: "余困人口", level: 18 },//雷
+        { word: "开档性试题", level: 18 },//本题为开档性试题，“档”，改为：放。
+        { word: "遵守遵守", level: 18 },//履行遵守遵守,遵守，删一个。
+        { word: "共同仓造", level: 18 },//幸福集体共同仓造200607
+        { word: "音遍性", level: 18 },//
+        { word: "实观", level: 18 },//
+        { word: "客现", level: 18 },//
+        { word: "眀", level: 18 },//200606        
         { word: "生活活知", level: 18 },// 运用经济生活活知，去掉一个活
         { word: "千涉", level: 18 },// 不受非法千涉和侵害————千涉→→干涉
         { word: "我有也要", level: 18 },// 我有也要去支援武汉
@@ -419,7 +374,7 @@
         { word: "体共同现", level: 18 },//体共同现出
         { word: "中国特殊社会主义", level: 18 },//中国特殊社会主义制度
         { word: "灵魄", level: 18 },//创新是民族进步的灵魄，
-        { word: "初分配重公平", level: 18 },//
+        { word: "初分配", level: 18 },//
         { word: "榜样模仿", level: 18 },//
         { word: "违法商业道德", level: 18 },//雷
         { word: "地城限制", level: 18 },//  地域限制
@@ -508,7 +463,7 @@
         { word: "应党增", level: 18 },//应党增强 应当
         { word: "意识为转移", level: 18 },//不以人的意识为转移
         { word: "运用是分析", level: 18 },//考查学生解读材料运用是分析问题的能力，是去掉
-        { word: "法律之上应成", level: 18 },//法律之上应成为  法律至上
+        { word: "法律之上", level: 18 },//法律之上应成为  法律至上
         { word: "轻济", level: 18 },//转变轻济发展方式
         { word: "违法法律", level: 18 },//
         { word: "超越里法律", level: 18 },// 超越里法律的界限   超越了 
@@ -1091,7 +1046,7 @@
         { word: "发扬方有", level: 18 },//全国人民发扬方有难，八方支援的精神,
         { word: "行改许可", level: 18 },//行政许可
         { word: "浏苦", level: 18 },//努力使自己成为创新人才浏苦学习
-        { word: "信营", level: 18 },//树立良好的信营和形象,改成树立良好的信誉和形象, counter 诚信营商环境
+        { word: "信营", level: 18 },//树立良好的信营和形象,改成树立良好的信誉和形象,
         { word: "的产主", level: 18 },//发展的实质是新事物的产主和旧事物的灭亡。 雷
         { word: "我们经达到", level: 18 },//我们经达到的小康是总体小康，
         { word: "取得切成就", level: 18 },//我们取得切成就和进步的根本保证
