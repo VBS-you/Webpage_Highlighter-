@@ -1757,7 +1757,7 @@
         // { word: "老奶奶", level: 27 },
         { word: "实施民主", level: 27 },
         { word: "民主关系", level: 27 },
-        { word: "报本", level: 27 },
+        //{ word: "报本", level: 27 },
         { word: "看郭某鹏待", level: 27 },
         { word: "克已奉公", level: 27 },
         
